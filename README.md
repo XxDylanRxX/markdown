@@ -1,1 +1,9 @@
-# markdown
+- Decisión: Lanzar el nuevo producto
+  - Evento 1: Éxito en el mercado
+    - Ingresos: $200,000
+    - Probabilidad de éxito: 60% (0.6)
+    - Beneficio esperado en caso de éxito: $120,000
+  - Evento 2: Fracaso en el mercado
+    - Ingresos: $0 (no obtendrás ingresos)
+    - Probabilidad de fracaso: 40% (0.4)
+    - Beneficio esperado en caso de fracaso: $0
